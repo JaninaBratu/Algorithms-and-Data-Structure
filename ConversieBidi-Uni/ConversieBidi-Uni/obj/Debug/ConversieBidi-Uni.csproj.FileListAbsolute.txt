@@ -1,0 +1,6 @@
+E:\VisualStudioWorkspace\ConversieBidi-Uni\ConversieBidi-Uni\bin\Debug\ConversieBidi-Uni.exe.config
+E:\VisualStudioWorkspace\ConversieBidi-Uni\ConversieBidi-Uni\obj\Debug\ConversieBidi-Uni.csprojResolveAssemblyReference.cache
+E:\VisualStudioWorkspace\ConversieBidi-Uni\ConversieBidi-Uni\bin\Debug\ConversieBidi-Uni.exe
+E:\VisualStudioWorkspace\ConversieBidi-Uni\ConversieBidi-Uni\bin\Debug\ConversieBidi-Uni.pdb
+E:\VisualStudioWorkspace\ConversieBidi-Uni\ConversieBidi-Uni\obj\Debug\ConversieBidi-Uni.exe
+E:\VisualStudioWorkspace\ConversieBidi-Uni\ConversieBidi-Uni\obj\Debug\ConversieBidi-Uni.pdb

@@ -1,0 +1,6 @@
+E:\VisualStudioWorkspace\PowerOf2\PowerOf2\bin\Debug\PowerOf2.exe.config
+E:\VisualStudioWorkspace\PowerOf2\PowerOf2\bin\Debug\PowerOf2.exe
+E:\VisualStudioWorkspace\PowerOf2\PowerOf2\bin\Debug\PowerOf2.pdb
+E:\VisualStudioWorkspace\PowerOf2\PowerOf2\obj\Debug\PowerOf2.csprojResolveAssemblyReference.cache
+E:\VisualStudioWorkspace\PowerOf2\PowerOf2\obj\Debug\PowerOf2.exe
+E:\VisualStudioWorkspace\PowerOf2\PowerOf2\obj\Debug\PowerOf2.pdb

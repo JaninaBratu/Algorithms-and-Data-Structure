@@ -1,0 +1,6 @@
+E:\VisualStudioWorkspace\PalindromString\PalindromString\bin\Debug\PalindromString.exe.config
+E:\VisualStudioWorkspace\PalindromString\PalindromString\bin\Debug\PalindromString.exe
+E:\VisualStudioWorkspace\PalindromString\PalindromString\bin\Debug\PalindromString.pdb
+E:\VisualStudioWorkspace\PalindromString\PalindromString\obj\Debug\PalindromString.csprojResolveAssemblyReference.cache
+E:\VisualStudioWorkspace\PalindromString\PalindromString\obj\Debug\PalindromString.exe
+E:\VisualStudioWorkspace\PalindromString\PalindromString\obj\Debug\PalindromString.pdb
